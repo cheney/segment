@@ -3,7 +3,7 @@
 题目：
 
 找出黄色方块周边的长方形
-
+  
 ![question](./img/question.jpeg "question")
 
 思路：
@@ -15,5 +15,5 @@
 >php ractangle.php
 
 效果：
-
+  
 ![effect](./img/result.gif "effect")
